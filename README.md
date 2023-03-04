@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **c-cybercat/c-cybercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://instagram.com/eomhe_e?igshid=NTdlMDg3MTY=" target="_blank"><img src="https://img.shields.io/badge/instagram-40ba8f?style=?style=for-the-badge&logo=appveyor&logo=https://simpleicons.org/icons/instagram.svg&logoColor=E4405F"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-cybercat&show_icons=true&theme=radical)
