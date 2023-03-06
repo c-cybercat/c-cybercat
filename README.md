@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=72BAD6&height=190&section=header&text=^%20ↀ%20ᴥ%20ↀ%20^&fontSize=150)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-cybercat&show_icons=true&theme=react)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dhalwk1001})](https://solved.ac/{dhalwk1001})
