@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhalwk1001)](https://solved.ac/{dhalwk1001})
 
+![Leetcode Stats](https://leetcard.c-cybercat/lapor?ext=contest)  
+  
 </div>
